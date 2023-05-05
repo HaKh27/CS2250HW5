@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: #0f5361;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #62bdc0, 0 0 70px #78c5e8, 0 0 80px #5fe2ff, 0 0 100px #419894;
+}
+
+h2 {
+  color: rgb(11, 5, 5);
+}
